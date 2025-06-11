@@ -1497,7 +1497,7 @@
                 "sound_depressed"           "UI/buttonclick.wav"
                 "sound_released"            "UI/buttonclickrelease.wav"
 
-                "labelText"                 "#MMenu_CharacterSetup"
+                "labelText"                 "#Store_Items"
                 "font"                      "FontMedium_12_Additive"
                 "textAlignment"             "center"
                 "allcaps"                   "1"
@@ -1581,7 +1581,7 @@
                 "sound_depressed"           "UI/buttonclick.wav"
                 "sound_released"            "UI/buttonclickrelease.wav"
 
-                "labelText"                 "#TF_MvM_Advanced"
+                "labelText"                 "#MMenu_AdvOptions"
                 "font"                      "FontMedium_12_Additive"
                 "textAlignment"             "center"
                 "allcaps"                   "1"

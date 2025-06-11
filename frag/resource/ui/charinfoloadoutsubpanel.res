@@ -973,7 +973,7 @@
                 "tall"                          "20"
                 "proportionaltoparent"          "1"
 
-                "labelText"                     "#FRAG_CharInfo_Armory"
+                "labelText"                     "#Armory"
                 "textAlignment"                 "center"
                 "font"                          "FontMedium_9_Additive"
                 "fgcolor"                       "FragSecondary40"

@@ -292,7 +292,7 @@
         "labelText"                     "R"
         "textAlignment"                 "center"
 
-        "command"                       "engine sv_cheats 1; r_skin 0"
+        "command"                       "sv_cheats 1; r_skin 0"
         "sound_depressed"               "UI/buttonclick.wav"
         "sound_released"                "UI/buttonclickrelease.wav"
 
@@ -319,7 +319,7 @@
         "labelText"                     "B"
         "textAlignment"                 "center"
 
-        "command"                       "engine sv_cheats 1; r_skin 1"
+        "command"                       "sv_cheats 1; r_skin 1"
         "sound_depressed"               "UI/buttonclick.wav"
         "sound_released"                "UI/buttonclickrelease.wav"
 
